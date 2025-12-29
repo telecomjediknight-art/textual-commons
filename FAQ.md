@@ -108,4 +108,17 @@ Care matters more than credentials.
 ## Who decides what gets included?
 
 Inclusion is based on:
-- the existence of a tex
+- the existence of a text
+- historical proximity
+- the ability for independent examination
+
+Cultural origin and theology are never exclusion criteria.
+
+---
+
+## Why GitHub?
+
+Because transparency is built in.
+
+Every change is tracked. Nothing can be edited silently. Discussion and revision are public. The platform reinforces the method.
+
